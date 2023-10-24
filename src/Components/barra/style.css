@@ -1,0 +1,26 @@
+.scrolled {
+    background-color: black;
+  }
+  
+  .logo1{
+      width: 20%;
+      height: 10%;
+  }
+  
+  .logoNav {
+    width: 25%;
+    height: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .banner-image {
+    background-image: url("../../assets/img/banner.svg");
+    background-size: cover;
+  }
+
+  .logoBanner{
+    width: 150%;
+
+  }

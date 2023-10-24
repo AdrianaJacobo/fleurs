@@ -1,0 +1,6 @@
+.btn-purple {
+    background-color: #8C1843;
+    border-color: #8C1843;
+    color: #fff;
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
